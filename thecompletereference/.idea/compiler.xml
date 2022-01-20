@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="utilitypackage" />
+        <module name="multithreading" />
+        <module name="datatypes" />
+        <module name="collectionframework" />
+        <module name="eventhandling" />
+        <module name="swing" />
+        <module name="awt" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="awt" target="13" />
+      <module name="collectionframework" target="13" />
+      <module name="datatypes" target="13" />
+      <module name="eventhandling" target="13" />
+      <module name="gui" target="13" />
+      <module name="multithreading" target="13" />
+      <module name="swing" target="13" />
+      <module name="thecompletereference" target="13" />
+      <module name="utilitypackage" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
